@@ -100,9 +100,15 @@ form {
 
 label, input {
     display: block;
+    text-align: center;
     width: 100%;
     margin-bottom: 1.2rem;
     padding: 1rem 0;
     font-size: 2rem;
     border-radius: 5px;
+}
+
+#text-field {
+    padding: 20px;
+    text-align: center;
 }
